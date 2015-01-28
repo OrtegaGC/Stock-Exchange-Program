@@ -1,0 +1,14 @@
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\MainApplication.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\MainApplication.csproj.GenerateResource.Cache
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MarketDepthPrice.resources
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MarketOrderByDepth.resources
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PlaceBid.resources
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PlaceSellOrder.resources
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StockStateSummary.resources
+C:\Users\Evan\Documents\Visual Studio 2013\Projects\3352-Assignment-2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.StockMarketExchange.resources
